@@ -98,7 +98,3 @@ Missing an important extension? Open an issue in the repository!
 ## 📄 License
 
 MIT License
-
----
-
-**Enjoy developing Data Science and Machine Learning projects with VS Code!** 🎉
