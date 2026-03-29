@@ -34,6 +34,7 @@ This extension pack automatically installs all the necessary tools for a complet
 ### 📈 **Data Visualization & CSV**
 
 - **Rainbow CSV** - Enhanced CSV file visualization
+- **Indent Rainbow** - Indentation highlighting for code
 - **Better Comments** - More expressive comments
 
 ### 🤖 **AI & Assistance**

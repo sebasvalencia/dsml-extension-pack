@@ -2,7 +2,7 @@
   "name": "dsmlpack",
   "displayName": "Data Science & Machine Learning Pack",
   "description": "A comprehensive collection of essential VS Code extensions for Data Science and Machine Learning development.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "maxdevtool",
   "icon": "logo_dsml.png",
   "license": "MIT",
@@ -54,6 +54,7 @@
     "aaron-bond.better-comments",
     "BeardedBear.beardedtheme",
     "PKief.material-icon-theme",
-    "anthropic.claude-code"
+    "anthropic.claude-code",
+    "oderwat.indent-rainbow"
   ]
 }
